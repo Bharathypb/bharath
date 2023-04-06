@@ -1,2 +1,1 @@
-# bharath
-microdegree.com
+microdegree
